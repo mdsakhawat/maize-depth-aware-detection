@@ -1,0 +1,2 @@
+best_epoch,precision,recall,mAP50,mAP50-95
+120,0.86452,0.7954,0.87752,0.68026

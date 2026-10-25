@@ -1,0 +1,5 @@
+split,num_images,num_label_files,num_instances
+train,10609,10609,20386
+val,3004,3004,6033
+test,1506,1506,2947
+total,15119,15119,29366

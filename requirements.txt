@@ -1,0 +1,13 @@
+# versions used for every reported experiment
+ultralytics==8.4.136
+torch>=2.4
+torchvision>=0.19
+transformers>=4.44          # Depth Anything V2 via depth-anything/Depth-Anything-V2-Small-hf
+numpy>=1.26
+pandas>=2.2
+scipy>=1.13                 # Kruskal-Wallis
+scikit-posthocs>=0.9        # Dunn's test with Holm correction
+matplotlib>=3.8
+opencv-python>=4.10
+Pillow>=10.3
+tqdm>=4.66

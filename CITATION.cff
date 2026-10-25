@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Depth-Aware Maize Disease Detection and Relative 3D Localization Using YOLO11n and Depth Anything V2"
+authors:
+  - family-names: Hossain
+    given-names: "Md. Sakhawat"
+  - family-names: Uddin
+    given-names: "Md. Saif"
+year: 2026
+journal: "Journal of the Institution of Engineers, Bangladesh (Agricultural Engineering Division)"
+repository-code: "https://github.com/siam2461/maize-depth-aware-detection"
+license: MIT
